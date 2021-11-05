@@ -19,7 +19,7 @@
     9. 3. [Comparison Operators](#Comparison-Operators)  
     9. 4. [Logical Operators](#Logical-Operatorss)  
 10. [Math](#Math)
-11. [conditional statements](#conditional-statements)
+11. [Conditional statements](#conditional-statements)
 12. [Loops](#Loops)
 13. [Break and Continue](#Break-and-Continue)
 14. [Arrays](#Arrays)
