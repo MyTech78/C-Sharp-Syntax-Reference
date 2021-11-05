@@ -17,7 +17,7 @@
     9. 1. [Arithmetic Operators](#Arithmetic-Operators)  
     9. 2. [Assignment Operators](#Assignment-Operators)  
     9. 3. [Comparison Operators](#Comparison-Operators)  
-    9. 4. [Logical Operators](#Logical-Operatorss)  
+    9. 4. [Logical Operators](#Logical-Operators)  
 10. [Math](#Math)
 11. [Conditional statements](#conditional-statements)
 12. [Loops](#Loops)
