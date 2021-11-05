@@ -315,7 +315,7 @@ double -> float -> long -> int -> char
     Console.WriteLine() // This will output on seperate lines 
     Console.Write() // This will output on the same line 
 
-## User Input <a name="User Input"></a>
+## User Input <a name="User-Input"></a>
 
 ### Get User Input / Numbers
 You have already learned that Console.WriteLine() is used to output (print) values. Now we will use Console.ReadLine() to get user input.
