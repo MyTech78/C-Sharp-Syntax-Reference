@@ -271,7 +271,7 @@ Other useful escape characters in C# are:
     \t          Tab
     \b          Backspace
 
-## Type Casting <a name="Type Casting"></a>
+## Type Casting <a name="Type-Casting"></a>
 Type casting is when you assign a value of one data type to another type.
 
 In C#, there are two types of casting:
